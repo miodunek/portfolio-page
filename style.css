@@ -69,11 +69,11 @@ body {
   }
 
   .portfolio-item {
-    border: 4px solid #969b40c9;
+    border: 4px solid #000000c9;
     display: flex;
     margin: 20px;
     padding: 15px;
-    background-color: #2B5400;   
+    background-color: #b3b3b3;   
     border-radius: 12px;
     max-width: 300px;
     height: auto;
